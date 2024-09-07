@@ -1,10 +1,10 @@
 <template>
   <main>
     <h1>Home</h1>
-    <AppLogin />
+    <!-- <AppLogin /> -->
   </main>
 </template>
 
-<script setup>
-import AppLogin from '@/components/AppLogin.vue'
+<script setup lang="ts">
+// import AppLogin from '@/components/AppLogin.vue'
 </script>
